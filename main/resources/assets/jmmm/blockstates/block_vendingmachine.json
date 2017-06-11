@@ -1,0 +1,12 @@
+{
+    "jmmm:variants": {
+        "facing=north,part=bottom": { "model": "jmmm:vendingmachine_bottom", "y": 180 },
+        "facing=east,part=bottom":  { "model": "jmmm:vendingmachine_bottom", "y": 270 },
+        "facing=south,part=bottom": { "model": "jmmm:vendingmachine_bottom" },
+        "facing=west,part=bottom":  { "model": "jmmm:vendingmachine_bottom", "y": 90 },
+        "facing=north,part=top": { "model": "jmmm:vendingmachine_top", "y": 180 },
+        "facing=east,part=top":  { "model": "jmmm:vendingmachine_top", "y": 270 },
+        "facing=south,part=top": { "model": "jmmm:vendingmachine_top" },
+        "facing=west,part=top":  { "model": "jmmm:vendingmachine_top", "y": 90 }
+    }
+}

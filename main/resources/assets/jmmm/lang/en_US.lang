@@ -1,0 +1,6 @@
+item.coin.copper.name=Copper Coin
+item.coin.silver.name=Silver Coin
+item.coin.gold.name=Gold Coin
+item.item_vendingmachine.name=Vending Machine
+
+tile.block_vendingmachine.name=Vending Machine
